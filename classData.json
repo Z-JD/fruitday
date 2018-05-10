@@ -1,0 +1,208 @@
+{
+    "desc": {
+      "avatar" : "https://imgjd2.fruitday.com/images/product_pic/2117/1/1-370x370-2117-Y1P9K2TA.jpg",
+      "name" : "新西兰皇后红玫瑰苹果（early）",
+      "info" : "带着玫瑰的红 透着玫瑰清香",
+      "price" : "39.9",
+      "surplus" : "6",
+      "pics" : [
+        {
+          "image" : "https://imgjd1.fruitday.com/images/product_pic/4748/1/1-370x370-4748-YYB766C8.jpg",
+          "good" : "优选新疆库尔勒香梨",
+          "rate" : "39.9",
+          "num" : "2.5kg"
+        },
+        {
+          "image" : "https://imgqn8.fruitday.com/images/product_pic/2916/1/1-370x370-2916-B73F75YU.jpg",
+          "good" : "佳沛新西兰阳光金奇异果",
+          "rate" : "98",
+          "num" : "10个"
+        },
+        {
+          "image" : "https://imgqn8.fruitday.com/images/product_pic/602/1/1-370x370-602-54K3CUW7.jpg",
+          "good" : "精选百香果",
+          "rate" : "19.8",
+          "num" : "6个"
+        },
+        {
+          "image" : "https://imgjd7.fruitday.com/images/product_pic/4263/1/1-370x370-4263-Y4924PYY.jpg",
+          "good" : "万多福开心果盐焗味",
+          "rate" : "48.6",
+          "num" : "170g"
+        },
+        {
+          "image" : "https://imgjd6.fruitday.com/images/product_pic/2048/1/1-370x370-2048-81HF4595.jpg",
+          "good" : "荷兰青啤梨",
+          "rate" : "24.9",
+          "num" : "4个"
+        },
+        {
+          "image" : "https://imgjd4.fruitday.com/images/product_pic/4267/1/1-370x370-4267-4PPB84KA.jpg",
+          "good" : "雷诺优质速溶咖啡",
+          "rate" : "98",
+          "num" : "100g"
+        },
+        {
+          "image" : "https://imgjd5.fruitday.com/images/product_pic/4553/1/1-370x370-4553-84S3WPSD.jpg",
+          "good" : "illy咖啡豆（深度烘焙）",
+          "rate" : "108",
+          "num" : "250g"
+        },
+        {
+          "image" : "https://imgjd1.fruitday.com/images/product_pic/5004/1/1-370x370-5004-B566W6WS.jpg",
+          "good" : "集珍斋海苔",
+          "rate" : "16.8",
+          "num" : "22g"
+        }
+      ]
+    },
+    "choice": {
+        "img" : [
+          {  
+            "a" : "https://imgjd1.fruitday.com/images/2018-04-20/1dff01402e2d15d6ddf73f2e49a60b65.jpg"
+          },
+          {
+            "b" : "https://imgjd3.fruitday.com/images/2018-04-20/0a746d909000b99d1821711f92ab4d4d.jpg"
+          }
+        ],
+        "info" : [
+          {
+	          "image" : "https://imgjd2.fruitday.com/images/product_pic/2425/1/1-370x370-2425-CAD1D4DC.jpg",
+	          "good" : "新奇士美国晚熟脐橙mini ",
+	          "rate" : "68",
+	          "num" : "12个"
+	      },
+	      {
+	          "image" : "https://imgjd1.fruitday.com/images/product_pic/2050/1/1-370x370-2050-T6TA9SWD.jpg",
+	          "good" : "橙先生-美国脐橙",
+	          "rate" : "98",
+	          "num" : "12个"
+	      },
+	      {
+	          "image" : "https://imgqn8.fruitday.com/images/product_pic/32/1/1-370x370-32-CWAB8R26.jpg",
+	          "good" : "新奇士美国柠檬",
+	          "rate" : "25.8",
+	          "num" : "4个"
+	      },
+	      {
+	          "image" : "https://imgjd7.fruitday.com/images/product_pic/34/1/1-370x370-34-HC5KWXT6.jpg",
+	          "good" : "四川安岳柠檬",
+	          "rate" : "9.9",
+	          "num" : "4个"
+	      }
+        ],
+        "infa" : [
+          {
+	          "image" : "https://imgjd5.fruitday.com/images/product_pic/7/1/1-370x370-7-15SS31WX.jpg",
+	          "good" : "墨西哥牛油果 ",
+	          "rate" : "29.9",
+	          "num" : "2个"
+	      },
+	      {
+	          "image" : "https://imgqn8.fruitday.com/images/product_pic/602/1/1-370x370-602-54K3CUW7.jpg",
+	          "good" : "精选百香果",
+	          "rate" : "19",
+	          "num" : "3+3个"
+	      },
+	      {
+	          "image" : "https://imgjd5.fruitday.com/images/product_pic/9/1/1-370x370-9-DBB684KP.jpg",
+	          "good" : "进口凤梨",
+	          "rate" : "29.9",
+	          "num" : "1个"
+	      }
+        ]
+    },
+    "product": [
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/602/2318/20160223184124_996942.jpg@355w_355h_90Q",
+            "appellation" : "葡萄",
+            "introduce" : "葡萄糖、蛋白质、多种维生素",
+            "price" : "34.00",
+            "specification" : "2斤"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q",
+            "appellation" : "猕猴桃",
+            "introduce" : "钙、磷、铁、多种维生素",
+            "price" : "68.00",
+            "specification" : "6个"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/606/0914/20160609140838_326808.jpg@355w_355h_90Q",
+            "appellation" : "玉米",
+            "introduce" : "维生素E、谷胱甘肽、核黄素",
+            "price" : "45.00",
+            "specification" : "10斤"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/607/2817/20160728172416_543075.jpg@355w_355h_90Q",
+            "appellation" : "水蜜桃",
+            "introduce" : "蛋白质、铁、维生素C",
+            "price" : "24.00",
+            "specification" : "2斤"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/601/1614/20160116141751_938501.jpg@355w_355h_90Q",
+            "appellation" : "木瓜",
+            "introduce" : "木瓜蛋白酶、维生素C",
+            "price" : "14.80",
+            "specification" : "2个"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/605/3114/20160531141115_940295.jpg@355w_355h_90Q",
+            "appellation" : "山药",
+            "introduce" : "碳水化合物、蛋白质、维生素",
+            "price" : "39.9",
+            "specification" : "2.5kg"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/609/1418/20160914184627_516417.jpg@355w_355h_90Q",
+            "appellation" : "虾仁",
+            "introduce" : "蛋白质、钙、铁、磷、维生素A",
+            "price" : "34.50",
+            "specification" : "500g"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/608/1618/20160816185346_091495.jpg@355w_355h_90Q",
+            "appellation" : "鲜虾",
+            "introduce" : "蛋白质、钙、铁、磷、维生素A",
+            "price" : "47.80",
+            "specification" : "500g"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/608/2519/20160825190340_752416.jpg@355w_355h_90Q",
+            "appellation" : "榴莲",
+            "introduce" : "蛋白质、糖份、维生素A",
+            "price" : "45.90",
+            "specification" : "一盒"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/606/2317/20160623173515_789986.jpg@355w_355h_90Q",
+            "appellation" : "青瓜",
+            "introduce" : "蛋白质、糖类、维生素B2",
+            "price" : "10.00",
+            "specification" : "4根"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/608/1716/20160817164638_577285.jpg@355w_355h_90Q",
+            "appellation" : "新疆无核白葡萄",
+            "introduce" : "葡萄糖、蛋白质、多种维生素",
+            "price" : "36.00",
+            "specification" : "4斤"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/609/1816/20160918161017_711297.jpg@355w_355h_90Q",
+            "appellation" : "鲫鱼",
+            "introduce" : "蛋白质、维生素A、B族维生素",
+            "price" : "62.00",
+            "specification" : "2斤"
+        },
+        {
+            "imgSrc" : "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q",
+            "appellation" : "黑玉米",
+            "introduce" : "蛋白质、黑色素、矿物质",
+            "price" : "40.00",
+            "specification" : "4斤"
+        }
+    ]
+}
